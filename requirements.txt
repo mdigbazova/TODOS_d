@@ -11,7 +11,7 @@ Babel==2.6.0
 django-model-utils==3.1.2
 django-phonenumber-field==2.3.1
 django-rest-auth==0.9.5
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 phonenumbers==8.10.10
 Pillow==6.0.0
 Pygments==2.3.1
